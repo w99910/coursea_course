@@ -3,7 +3,7 @@
     font-family: 'Poppins';
 }
 html,body{
-
+    max-height:100vh;
     scroll-behavior: smooth;
 }
 body::-webkit-scrollbar{
